@@ -1,0 +1,91 @@
+# careers section data
+# if you don't have language feature(language.yml is empty), ignore "i18n" items
+- name:
+    detail: 开始
+  desc:
+    detail: 实验室成立
+  date:
+    detail: 2000年
+  job:
+    detail: 
+  icon: fa-plus-square
+
+- name:
+    detail: 中止
+  desc:
+    detail: 因故中止
+  date:
+    detail: 2009年
+  job:
+    detail: 
+  icon: fa-pause-circle
+
+- name:
+    detail: 重组
+  desc:
+    detail: 在实验室第一届成员张东老师的努力下，实验室完成重组
+  date:
+    detail: 2010年
+  job:
+    detail: 
+  icon: fa-play-circle
+
+- name:
+    detail: 归来
+  desc:
+    detail: 重返全国大学生机器人大赛赛场
+  date:
+    detail: 2014年
+  job:
+    detail:
+  icon: fa-paper-plane
+
+- name:
+    detail: 大捷
+  desc:
+    detail: 第十五届全国大学生机器人大赛RoboMaster全国季军
+  date:
+    detail: 2016年
+  job:
+    detail:
+  icon: fa-flag
+
+- name:
+    detail: 夺冠
+  desc:
+    detail: 第十六届全国大学生机器人大赛RoboMaster全国总冠军
+  date:
+    detail: 2017年
+  job:
+    detail:
+  icon: fa-star
+
+- name:
+    detail: 辉煌
+  desc:
+    detail: 第十六届全国大学生机器人大赛Robocon全国二等奖
+  date:
+    detail: 2017年
+  job:
+    detail:
+  icon: fa-star
+
+- name:
+    detail: 卫冕
+  desc:
+    detail: 第十七届全国大学生机器人大赛RoboMaster全国总冠军
+  date:
+    detail: 2018年
+  job:
+    detail:
+  icon: fa-star
+
+- name:
+    detail: 荣耀
+  desc:
+    detail: 第十七届全国大学生机器人大赛Robocon全国三等奖
+  date:
+    detail: 2018年
+  job:
+    detail:
+  icon: fa-star
