@@ -1,0 +1,17 @@
+---
+layout: post
+---
+
+<style>
+.mp-content * {
+    max-width: 100%;
+}
+</style>
+<div class="mp-content">
+    {{ content }}
+</div>
+<script>
+document.querySelectorAll('.mp-content img').forEach(i => {
+    i.setAttribute('src', i.getAttribute('data-src'));
+})
+</script>
