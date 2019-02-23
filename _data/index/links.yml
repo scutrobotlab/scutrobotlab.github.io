@@ -3,10 +3,16 @@
   first_name:
   desc:
   website: https://www.scut.edu.cn/new/
-#  email:
+  email:
 
-- last_name: Robomaster官网
+- last_name: RoboMaster官网
   first_name:
   desc:
   website: https://www.robomaster.com/zh-CN
+  email:
+
+- last_name: Robocon官网
+  first_name:
+  desc:
+  website: http://www.cnrobocon.net
   email:
